@@ -1,4 +1,4 @@
-[Cosy-Bio Project](https://www.cosy-bio.eu/)
+[COSY-BIO Project](https://www.cosy-bio.eu/)
 
 # embedded-cycloop
 
